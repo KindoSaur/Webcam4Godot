@@ -1,0 +1,34 @@
+C:\Users\User\Desktop\WebcamApp\WebcamApp\bin\Debug\WebcamApp.exe.config
+C:\Users\User\Desktop\WebcamApp\WebcamApp\bin\Debug\WebcamApp.exe
+C:\Users\User\Desktop\WebcamApp\WebcamApp\bin\Debug\WebcamApp.pdb
+C:\Users\User\Desktop\WebcamApp\WebcamApp\bin\Debug\AForge.dll
+C:\Users\User\Desktop\WebcamApp\WebcamApp\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\User\Desktop\WebcamApp\WebcamApp\bin\Debug\AForge.Video.dll
+C:\Users\User\Desktop\WebcamApp\WebcamApp\bin\Debug\AForge.xml
+C:\Users\User\Desktop\WebcamApp\WebcamApp\bin\Debug\AForge.Video.xml
+C:\Users\User\Desktop\WebcamApp\WebcamApp\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\User\Desktop\WebcamApp\WebcamApp\obj\Debug\WebcamApp.Form1.resources
+C:\Users\User\Desktop\WebcamApp\WebcamApp\obj\Debug\WebcamApp.Properties.Resources.resources
+C:\Users\User\Desktop\WebcamApp\WebcamApp\obj\Debug\WebcamApp.csproj.GenerateResource.cache
+C:\Users\User\Desktop\WebcamApp\WebcamApp\obj\Debug\WebcamApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\WebcamApp\WebcamApp\obj\Debug\WebcamApp.csproj.CopyComplete
+C:\Users\User\Desktop\WebcamApp\WebcamApp\obj\Debug\WebcamApp.exe
+C:\Users\User\Desktop\WebcamApp\WebcamApp\obj\Debug\WebcamApp.pdb
+E:\Yipp\3102023\WebcamApp\WebcamApp\bin\Debug\AForge.dll
+E:\Yipp\3102023\WebcamApp\WebcamApp\bin\Debug\AForge.Video.DirectShow.dll
+E:\Yipp\3102023\WebcamApp\WebcamApp\bin\Debug\AForge.Video.dll
+E:\Yipp\3102023\WebcamApp\WebcamApp\bin\Debug\SimpleTCP.dll
+E:\Yipp\3102023\WebcamApp\WebcamApp\bin\Debug\AForge.xml
+E:\Yipp\3102023\WebcamApp\WebcamApp\bin\Debug\AForge.Video.xml
+E:\Yipp\3102023\WebcamApp\WebcamApp\bin\Debug\AForge.Video.DirectShow.xml
+E:\Yipp\3102023\WebcamApp\WebcamApp\obj\Debug\WebcamApp.csproj.AssemblyReference.cache
+E:\Yipp\3102023\WebcamApp\WebcamApp\obj\Debug\WebcamApp.Properties.Resources.resources
+E:\Yipp\3102023\WebcamApp\WebcamApp\obj\Debug\WebcamApp.csproj.GenerateResource.cache
+E:\Yipp\3102023\WebcamApp\WebcamApp\obj\Debug\WebcamApp.csproj.CoreCompileInputs.cache
+E:\Yipp\3102023\WebcamApp\WebcamApp\obj\Debug\WebcamApp.csproj.CopyComplete
+E:\Yipp\3102023\WebcamApp\WebcamApp\obj\Debug\WebcamApp.GodotWebcamCaptureTool.resources
+E:\Yipp\3102023\WebcamApp\WebcamApp\bin\Debug\Webcam 4 Godot.exe.config
+E:\Yipp\3102023\WebcamApp\WebcamApp\bin\Debug\Webcam 4 Godot.exe
+E:\Yipp\3102023\WebcamApp\WebcamApp\bin\Debug\Webcam 4 Godot.pdb
+E:\Yipp\3102023\WebcamApp\WebcamApp\obj\Debug\Webcam 4 Godot.exe
+E:\Yipp\3102023\WebcamApp\WebcamApp\obj\Debug\Webcam 4 Godot.pdb

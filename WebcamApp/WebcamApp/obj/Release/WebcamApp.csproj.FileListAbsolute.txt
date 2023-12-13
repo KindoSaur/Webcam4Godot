@@ -1,0 +1,18 @@
+E:\Yipp\3102023\WebcamApp\WebcamApp\bin\Release\AForge.dll
+E:\Yipp\3102023\WebcamApp\WebcamApp\bin\Release\AForge.Video.DirectShow.dll
+E:\Yipp\3102023\WebcamApp\WebcamApp\bin\Release\AForge.Video.dll
+E:\Yipp\3102023\WebcamApp\WebcamApp\bin\Release\SimpleTCP.dll
+E:\Yipp\3102023\WebcamApp\WebcamApp\bin\Release\AForge.xml
+E:\Yipp\3102023\WebcamApp\WebcamApp\bin\Release\AForge.Video.xml
+E:\Yipp\3102023\WebcamApp\WebcamApp\bin\Release\AForge.Video.DirectShow.xml
+E:\Yipp\3102023\WebcamApp\WebcamApp\obj\Release\WebcamApp.csproj.AssemblyReference.cache
+E:\Yipp\3102023\WebcamApp\WebcamApp\obj\Release\WebcamApp.GodotWebcamCaptureTool.resources
+E:\Yipp\3102023\WebcamApp\WebcamApp\obj\Release\WebcamApp.Properties.Resources.resources
+E:\Yipp\3102023\WebcamApp\WebcamApp\obj\Release\WebcamApp.csproj.GenerateResource.cache
+E:\Yipp\3102023\WebcamApp\WebcamApp\obj\Release\WebcamApp.csproj.CoreCompileInputs.cache
+E:\Yipp\3102023\WebcamApp\WebcamApp\obj\Release\WebcamApp.csproj.CopyComplete
+E:\Yipp\3102023\WebcamApp\WebcamApp\bin\Release\Webcam 4 Godot.exe.config
+E:\Yipp\3102023\WebcamApp\WebcamApp\bin\Release\Webcam 4 Godot.exe
+E:\Yipp\3102023\WebcamApp\WebcamApp\bin\Release\Webcam 4 Godot.pdb
+E:\Yipp\3102023\WebcamApp\WebcamApp\obj\Release\Webcam 4 Godot.exe
+E:\Yipp\3102023\WebcamApp\WebcamApp\obj\Release\Webcam 4 Godot.pdb
